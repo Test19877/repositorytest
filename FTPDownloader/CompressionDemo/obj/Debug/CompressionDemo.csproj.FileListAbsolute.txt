@@ -1,0 +1,15 @@
+C:\Users\igor.kabic\Desktop\CompressionDemo\CompressionDemo\bin\Debug\CompressionDemo.exe.config
+C:\Users\igor.kabic\Desktop\CompressionDemo\CompressionDemo\bin\Debug\CompressionDemo.exe
+C:\Users\igor.kabic\Desktop\CompressionDemo\CompressionDemo\bin\Debug\CompressionDemo.pdb
+C:\Users\igor.kabic\Desktop\CompressionDemo\CompressionDemo\bin\Debug\ImprovedCompression.pdb
+C:\Users\igor.kabic\Desktop\CompressionDemo\CompressionDemo\obj\Debug\CompressionDemo.csprojResolveAssemblyReference.cache
+C:\Users\igor.kabic\Desktop\CompressionDemo\CompressionDemo\obj\Debug\CompressionDemo.exe
+C:\Users\igor.kabic\Desktop\CompressionDemo\CompressionDemo\obj\Debug\CompressionDemo.pdb
+C:\Users\igor.kabic\Desktop\CompressionDemo - Copy\CompressionDemo\obj\Debug\CompressionDemo.csprojResolveAssemblyReference.cache
+C:\Users\igor.kabic\Desktop\CompressionDemo - Copy\CompressionDemo\obj\Debug\CompressionDemo.exe
+C:\Users\igor.kabic\Desktop\CompressionDemo - Copy\CompressionDemo\bin\Debug\CompressionDemo.exe.config
+C:\Users\igor.kabic\Desktop\CompressionDemo - Copy\CompressionDemo\bin\Debug\CompressionDemo.exe
+C:\Users\igor.kabic\Desktop\CompressionDemo - Copy\CompressionDemo\bin\Debug\CompressionDemo.pdb
+C:\Users\igor.kabic\Desktop\CompressionDemo - Copy\CompressionDemo\bin\Debug\ImprovedCompression.dll
+C:\Users\igor.kabic\Desktop\CompressionDemo - Copy\CompressionDemo\bin\Debug\ImprovedCompression.pdb
+C:\Users\igor.kabic\Desktop\CompressionDemo - Copy\CompressionDemo\obj\Debug\CompressionDemo.pdb
