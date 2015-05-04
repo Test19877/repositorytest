@@ -11,3 +11,10 @@ C:\Users\igor.kabic\Desktop\FTPDownloader\CompressionDemo\obj\Debug\FTPDownloade
 C:\Users\igor.kabic\Desktop\FTPDownloader\CompressionDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
 C:\Users\igor.kabic\Desktop\FTPDownloader\CompressionDemo\bin\Debug\ICSharpCode.SharpZipLib.pdb
 C:\Users\igor.kabic\Desktop\FTPDownloader\CompressionDemo\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\igor.kabic\Desktop\repositorytest\FTPDownloader\CompressionDemo\bin\Debug\FTPDownloader.exe
+C:\Users\igor.kabic\Desktop\repositorytest\FTPDownloader\CompressionDemo\bin\Debug\FTPDownloader.pdb
+C:\Users\igor.kabic\Desktop\repositorytest\FTPDownloader\CompressionDemo\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\igor.kabic\Desktop\repositorytest\FTPDownloader\CompressionDemo\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\igor.kabic\Desktop\repositorytest\FTPDownloader\CompressionDemo\obj\Debug\FTPDownloader.csprojResolveAssemblyReference.cache
+C:\Users\igor.kabic\Desktop\repositorytest\FTPDownloader\CompressionDemo\obj\Debug\FTPDownloader.exe
+C:\Users\igor.kabic\Desktop\repositorytest\FTPDownloader\CompressionDemo\obj\Debug\FTPDownloader.pdb

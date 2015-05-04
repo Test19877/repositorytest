@@ -25,7 +25,7 @@ namespace FTPDownloader
         	// variables initialization
         	
 
-		/*
+		
            	
 			//CompressionFunctionalityClass cs2 = new CompressionFunctionalityClass();
 			//cs2.GzTarExtract( @"C:\Users\igor.kabic\Desktop\tradglobalprod_2015-04-27-lookup_data.tar.gz", @"C:\Users\igor.kabic\Desktop\New Folder");
@@ -50,9 +50,9 @@ namespace FTPDownloader
         	//FTPDownloader.exe "ftp://ftp.shtab.org/repository/tradglobalprod_2015-04-27-lookup_data.tar.gz" "oi-plamen@shtab.org" "oscarindiapapa71" "C:\\Users\\igor.kabic\\Desktop\\New Folder\\" "true" "false"
         	//FTPDownloader.exe "ftp://ftp.shtab.org/repository/100godina.zip" "oi-plamen@shtab.org" "oscarindiapapa71" "C:\\Users\\igor.kabic\\Desktop\\New Folder\\" "true" "false"
         	
-       */
-        	
-        	//Test3 arguments
+       
+       /* 	
+   
        		
   			string sourceFullPath = args[0];
         	string userNameFtp = args[1];
@@ -72,7 +72,7 @@ namespace FTPDownloader
         	{
         		flgCheckAvailability = true;
         	}
-            
+            */
 			
         	
 			bool flgFileExists = false;
