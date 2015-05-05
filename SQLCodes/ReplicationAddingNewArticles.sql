@@ -9,7 +9,7 @@ sp_helppublication
 
 --Run on your publisher database
 EXEC sp_changepublication 
-@publication = 'ODSs', 
+@publication = 'ODSssss', 
 @property = 'allow_anonymous' , 
 @value = 'false' 
 GO 
